@@ -4,9 +4,9 @@
 4. Merge Sort ** O(N log N)
 5. Quick Sort ** O(N log N)
 6. Kruskal's Algorithm ** O(E log V + V log E) 
-7. Dijkstra's Algorithm 
-8. Floyd Warshal's Algorithm
-9. Bellman Ford 
+7. Dijkstra's Algorithm  ** O(V2)
+8. Floyd Warshal's Algorithm 
+9. Bellman Ford ** O(V * E)
 10. Kadane's Algorithm ** O(N) 
 11. Lee Algorithm ** O(N)
 12. Flood Fill Algorithm ** O(N)
