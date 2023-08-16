@@ -24,4 +24,4 @@
 24. Boyer Moore Majority Voting Algo 
 25. Euclid's Algorithm ** O(Log N)
 26. Detect a cycle in graph ** 
-27. Rabin knarp 
+27. Rabin knarp  
