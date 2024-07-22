@@ -31,4 +31,4 @@ This folder contains all the below mentioned algorithms. These are considered as
 26. Detect a cycle in graph ** 
 27. Rabin knarp
 
-Please mail me @ sherlockdetective69@gmail.com if you find any mistake in these algorithms. 
+Please mail me @ chetanakashv@gmail.com if you find any mistake in these algorithms. 
